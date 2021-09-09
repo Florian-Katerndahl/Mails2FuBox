@@ -1,0 +1,7 @@
+python_call
+logfile.txt
+Pipfile.lock
+PythonPath.txt
+execution.txt
+attachments/
+converted/
